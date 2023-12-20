@@ -1,6 +1,6 @@
 Name:		texlive-verifiche
-Version:	64425
-Release:	2
+Version:	68023
+Release:	1
 Summary:	A LaTeX package to typeset (Italian) high school tests
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/verifiche
