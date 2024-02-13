@@ -1,5 +1,5 @@
 Name:		texlive-verifiche
-Version:	68023
+Version:	69726
 Release:	1
 Summary:	A LaTeX package to typeset (Italian) high school tests
 Group:		Publishing
