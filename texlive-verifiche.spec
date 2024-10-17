@@ -3,7 +3,7 @@ Version:	69726
 Release:	1
 Summary:	A LaTeX package to typeset (Italian) high school tests
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/verifiche
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/verifiche
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/verifiche.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/verifiche.doc.r%{version}.tar.xz
